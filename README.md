@@ -9,4 +9,4 @@ You work for XYZ bank. Predict the loan amount that can be sanctioned to custome
 
 In case of trouble opening the jupyter notebook (rendering issue), use this link:
 
-https://github.com/Neelesh-Jaiswal/Hackerearth-Hiring-challenege/blob/c7924f7ff1bbeaa3967ba0d819aa6cf3c5af2b76/final.ipynb
+https://nbviewer.jupyter.org/github/Neelesh-Jaiswal/Hackerearth-Hiring-challenege/blob/c7924f7ff1bbeaa3967ba0d819aa6cf3c5af2b76/final.ipynb
